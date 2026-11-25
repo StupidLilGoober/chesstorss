@@ -1,0 +1,7 @@
+config.json
+env/
+venv/
+.env/
+.venv/
+*.rss
+output/

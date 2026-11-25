@@ -1,0 +1,8 @@
+{
+  "player": "your chess username",
+  "optional": {
+    "email": "(optional) your email",
+    "rssOutput": "(optional) the output file (defaults to chess.rss)",
+    "jsonOutput": "(optional) this is primarily used for testing, it doesn't default to anything"
+  }
+}
