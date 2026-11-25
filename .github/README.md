@@ -37,6 +37,6 @@ directory). Then, you simply run the script, which outputs a `.rss` file.
 
 ---
 
-> ![NOTE]
+> [!NOTE]
 > * The `player` configuration setting *must* be all lowercase.
 > * The script assumes you have Python 3.12 or newer.
